@@ -68,7 +68,7 @@ The current implementation uses a **Cisco Switch** and **Cisco Router** with a *
 
 | Device | IP Address |
 |--------|------------|
-| Server-01 | `192.168.40.10` |
+| Server-01 | `192.168.1.1` |
 
 ### Management — VLAN 50
 
@@ -86,6 +86,8 @@ The following networking concepts are implemented in the current phase:
 - IPv4 Addressing
 - Subnetting
 - VLANs
+- Layer-2 Switching 
+- Layer-3 Routing 
 - Access Ports
 - 802.1Q Trunking
 - Router-on-a-Stick
