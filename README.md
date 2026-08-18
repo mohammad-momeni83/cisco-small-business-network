@@ -219,6 +219,7 @@ Sales PC
 This allows devices in different VLANs to communicate through the router.
 
 ---
+![Network Topology](topology/inter-vlan-routing-simulation.gif)
 
 # 🧪 Network Testing
 
