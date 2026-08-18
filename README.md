@@ -254,33 +254,6 @@ The successful tests confirm that:
 
 ---
 
-# 📁 Project Structure
-
-```text
-cisco-small-business-network/
-│
-├── README.md
-│
-├── topology/
-│   └── abc-network-topology.png
-│
-├── packet-tracer/
-│   └── ABC-Small-Business-Network.pkt
-│
-├── documentation/
-│   ├── vlan-table.md
-│   ├── ip-addressing.md
-│   └── configuration.md
-│
-└── screenshots/
-    ├── topology.png
-    ├── vlan-configuration.png
-    ├── trunk-configuration.png
-    ├── router-configuration.png
-    └── connectivity-tests.png
-```
-
----
 
 # 🚧 Future Improvements
 
@@ -363,6 +336,6 @@ This project was built to gain practical experience with:
 
 **Mohammad Momeni**
 
-Computer Engineering / Software
+Network Specialist
 
 Interested in Networking, Network Support, Software Development and Infrastructure.
