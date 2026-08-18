@@ -37,6 +37,7 @@ The current implementation uses a **Cisco Switch** and **Cisco Router** with a *
 | 40 | Servers | `192.168.40.0/24` | `192.168.40.1` |
 | 50 | Management | `192.168.50.0/24` | `192.168.50.1` |
 
+![Network Topology](topology/vlan-simulation.gif)
 ---
 
 ## 💻 End Devices
