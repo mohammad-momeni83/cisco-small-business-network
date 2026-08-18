@@ -23,7 +23,7 @@ The current implementation uses a **Cisco Switch** and **Cisco Router** with a *
 
 ## 🏗️ Network Topology
 
-![Network Topology](topology/abc-network-topology.png)
+![Network Topology](topology/topology.png)
 
 ---
 
