@@ -34,6 +34,7 @@ A dedicated server provides **DHCP and DNS services**, while the router performs
 
 The network consists of:
 ![Network Topology](topology/topology.png
+
 ---
 
 # 🧩 VLAN Design
