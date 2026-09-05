@@ -3,6 +3,7 @@
 A small business network designed and implemented in **Cisco Packet Tracer**, focusing on VLAN segmentation, inter-VLAN routing, network services, wireless connectivity, and basic network security.
 
 > **Project Status:** Phase 1 — Internal Network ✅ Completed
+
 > **Project Status:** Phase 2 — Network Services, Wireless & Security ✅ Completed
 
 ---
