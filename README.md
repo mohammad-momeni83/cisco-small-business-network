@@ -33,7 +33,8 @@ A dedicated server provides **DHCP and DNS services**, while the router performs
 # 🏗️ Network Topology
 
 The network consists of:
-![Network Topology](topology/topology.png
+
+![Network Topology](topology/topology.png)
 
 ---
 
